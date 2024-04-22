@@ -158,3 +158,59 @@ width: 100%;
         cursor: pointer;
     }
 }
+
+.bodyRegistro{
+    background-color: #9f3647;
+}
+.registro-text{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+.form-registro{
+    text-align: center;
+    background-color: #333333;
+    width: 32%;
+     padding:80px;
+     margin-left: 35%;
+     border-radius: 5%;
+     border: solid;
+
+}
+    .boton{
+        width: 30%;
+        box-sizing: content-box;
+        background-color:#9f3647;
+        border: 2px solid #9f3647;
+        color: #ffffff;
+        padding: 1rem 1rem;
+        border-radius: 5px;
+        font-size: 1rem;
+        font-weight: 500;
+       
+    }
+    .boton2{
+        width: 35%;
+        box-sizing: content-box;
+        background-color:#9f3647;
+        border: 2px solid #9f3647;
+        color: #ffffff;
+        padding: 1rem 1rem;
+        border-radius: 5px;
+        font-size: 1rem;
+        font-weight: 500;
+       
+    }
+
+    .input{
+        border-radius: 20px;
+        border: 2px solid #9f3647;
+        background-color: #333333;
+        outline: none;
+        color:white;
+        margin: 5%;
+    }
+    .linkRegistro{
+        text-decoration: none;
+        color: aquamarine;
+    }

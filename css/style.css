@@ -214,3 +214,21 @@ width: 100%;
         text-decoration: none;
         color: aquamarine;
     }
+
+    .card-title{
+        color: #181419;
+    }
+    p{
+        color: #181419;
+    }
+    #contenedor {
+        display: flex;
+        flex-wrap: wrap; 
+        justify-content: space-around; 
+      }
+
+      .tituloSection{
+        font-size: 2.5rem;
+        font-weight: 700;
+        margin-bottom: 1rem;
+    text-align: center;}
